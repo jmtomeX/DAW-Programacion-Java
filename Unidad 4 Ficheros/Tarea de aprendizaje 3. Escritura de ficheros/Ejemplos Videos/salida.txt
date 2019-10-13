@@ -1,0 +1,5 @@
+En este programa vamos a escribir texto en un fichero.
+Lo vamos a hacer utilizando un objeto de la clase PrintStream.
+System.out también es un objeto de la clase PrintStream.
+Todo lo que hemos hecho con System.out funcionará con ficheros
+Esto es así

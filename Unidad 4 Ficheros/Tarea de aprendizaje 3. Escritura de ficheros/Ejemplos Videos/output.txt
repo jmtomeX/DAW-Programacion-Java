@@ -1,0 +1,5 @@
+Nota media de Marta (id#43) = 8.4
+Nota media de Nerea (id#57) = 6.15
+Nota media de Miren (id#22) = 8.0
+Nota media de Aitor (id#101) = 7.9375
+Nota media de Javier (id#87) = 2.75

@@ -1,0 +1,4 @@
+Queso 5.5 1
+Mermelada 3.2 2
+Patatas 0.99 10
+Manzanas 1.29 4

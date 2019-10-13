@@ -1,0 +1,5 @@
+  rojo amarillo azul
+   
+   56 78,45 901 33
+   ¿Cuántos elementos hay?
+   Todo se cuenta como si fueran palabras.

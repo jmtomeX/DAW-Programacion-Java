@@ -1,0 +1,10 @@
+Vamos a contar
+cuantas lineas tiene
+cada parrafo
+<P>
+los parrafos estan
+separados por una etiqueta
+<p>
+<P>
+Puede haber parrafos vacios
+<p>

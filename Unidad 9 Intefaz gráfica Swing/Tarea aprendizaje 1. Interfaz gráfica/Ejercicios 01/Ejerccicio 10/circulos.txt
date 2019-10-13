@@ -1,0 +1,6 @@
+5
+5,5 rojo
+6,6 azul
+10 negro
+1,11 blanco
+2,2 verde

@@ -1,0 +1,9 @@
+En la primera de ellas, se desarrollan los requisistos básicos. Conviene usar arrays constantes para definir las distintas opciones que vamos a usar en los menús. Fijaos también, que podemos utilizar métodos privados para organizar el código dentro de cada una de las clases que creamos.
+
+En la segunda versión se han incluido las mejoras más repetidas en vuestros ejercicios aunque habéis utilizado algunas más.
+
+    Configuración de JFrames y JDialogs
+    Configuración de JTextAreas y otros componentes
+    ...
+
+Además, fijaos que se ha utilizado un array de 2 dimensiones para almacenar las distintas opciones de los menús. No hemos trabajado con ellos pero en este caso pueden resultar útiles y dado que algunos de vosotros os habéis dado cuenta, os lo planteo para que podáis estudiar como sería.

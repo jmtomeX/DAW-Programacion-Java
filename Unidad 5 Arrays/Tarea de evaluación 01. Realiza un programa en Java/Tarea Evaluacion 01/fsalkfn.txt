@@ -1,0 +1,70 @@
+Descripción: CURE FOR CANCER PROTEIN 
+Nucleótidos: ATGCCACTATGGTAG 
+Contadores: [4, 3, 4, 4, 0]
+Masa (%): [27.3, 16.8, 30.6, 25.3] de 1978.761
+Lista de codones: [ATG, CCA, CTA, TGG, TAG]
+Es proteina: SI
+
+Descripción: CAPTAIN PICARD HAIR GROWTH PROTEIN 
+Nucleótidos: ATGCCAACATGGATGCCCGATATGGATTGA 
+Contadores: [9, 6, 8, 7, 0]
+Masa (%): [30.7, 16.8, 30.5, 22.1] de 3967.5429999999997
+Lista de codones: [ATG, CCA, ACA, TGG, ATG, CCC, GAT, ATG, GAT, TGA]
+Es proteina: SI
+
+Descripción: BOGUS PROTEIN 
+Nucleótidos: CCATT-AATGATCA-CAGTT 
+Contadores: [6, 4, 2, 6, 2]
+Masa (%): [32.3, 17.7, 12.1, 29.9] de 2508.0779999999995
+Lista de codones: [CCA, TTA, ATG, ATC, ACA, GTT]
+Es proteina: NO
+
+Descripción: MICHAEL JORDAN MAD HOPS PROTEIN 
+Nucleótidos: ATGAG-ATC-CGTGATGTGGG-AT-CCTA-CT-CATTAA 
+Contadores: [9, 6, 8, 10, 6]
+Masa (%): [24.6, 13.5, 24.5, 25.3] de 4942.864
+Lista de codones: [ATG, AGA, TCC, GTG, ATG, TGG, GAT, CCT, ACT, CAT, TAA]
+Es proteina: SI
+
+Descripción: PARIS HILTON PHONY PROTEIN 
+Nucleótidos: ATGC-CAACATGGATGCCCTAAG-ATATGGATTAGTGA 
+Contadores: [12, 6, 9, 9, 2]
+Masa (%): [32.6, 13.4, 27.3, 22.6] de 4974.268999999999
+Lista de codones: [ATG, CCA, ACA, TGG, ATG, CCC, TAA, GAT, ATG, GAT, TAG, TGA]
+Es proteina: SI
+
+Descripción: JIMI HENDRIX GUITAR TALENT PROTEIN 
+Nucleótidos: ATGATAATTAGTTTTAATATCAGA-CTGTAA 
+Contadores: [12, 2, 4, 12, 1]
+Masa (%): [40.0, 5.5, 14.9, 37.1] de 4049.538
+Lista de codones: [ATG, ATA, ATT, AGT, TTT, AAT, ATC, AGA, CTG, TAA]
+Es proteina: NO
+
+Descripción: ADMIRAL GRACE MURRAY HOPPER PROTEIN 
+Nucleótidos: ATGC-AATT--GC-----TCGA--------TTAG 
+Contadores: [5, 3, 4, 6, 16]
+Masa (%): [17.0, 8.4, 15.2, 18.9] de 3964.103
+Lista de codones: [ATG, CAA, TTG, CTC, GAT, TAG]
+Es proteina: NO
+
+Descripción: TYLER DURDEN'S BRAIN PROTEIN 
+Nucleótidos: ATGATACCTATGAGTAATGTGGACCATATCCAAACTATAGGCATTGTCGGACCAACGATCGATTGGTTATACTGA 
+Contadores: [24, 14, 16, 21, 0]
+Masa (%): [32.9, 15.8, 24.6, 26.7] de 9843.809
+Lista de codones: [ATG, ATA, CCT, ATG, AGT, AAT, GTG, GAC, CAT, ATC, CAA, ACT, ATA, GGC, ATT, GTC, GGA, CCA, ACG, ATC, GAT, TGG, TTA, TAC, TGA]
+Es proteina: SI
+
+Descripción: MINI ME GROWTH HORMONE 
+Nucleótidos: ATGGGACGCTGA 
+Contadores: [3, 2, 5, 2, 0]
+Masa (%): [24.8, 13.6, 46.3, 15.3] de 1633.4439999999997
+Lista de codones: [ATG, GGA, CGC, TGA]
+Es proteina: NO
+
+Descripción: NYAN CAT PROTEIN 
+Nucleótidos: CAT-CAT-CAT-CAT-CAT-CAT-CAT-CAT-CAT-CAT 
+Contadores: [10, 10, 0, 10, 9]
+Masa (%): [29.3, 24.1, 0.0, 27.1] de 4613.379999999999
+Lista de codones: [CAT, CAT, CAT, CAT, CAT, CAT, CAT, CAT, CAT, CAT]
+Es proteina: NO
+

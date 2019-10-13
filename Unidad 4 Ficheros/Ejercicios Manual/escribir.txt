@@ -1,0 +1,3 @@
+Empezamosa trabajar
+Entero:   2345
+Decimal:   15,7

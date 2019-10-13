@@ -1,0 +1,5 @@
+   Pedro 1
+   Susana 2
+   Aritz 1
+   Miren 2
+   Guillermo 1
